@@ -1,0 +1,3 @@
+.build
+Pod-Simple-POD-*
+!releases/*.tar.gz
